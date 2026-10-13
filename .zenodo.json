@@ -1,0 +1,9 @@
+{
+  "title": "Figure scripts for \"Resolution may hold the key to a weaker and shallower glacial Atlantic overturning\"",
+  "description": "Python scripts that make Figures 1 to 4 and Figures S1 to S7 of Abdelkader Di Carlo et al., \"Resolution may hold the key to a weaker and shallower glacial Atlantic overturning\", submitted to Geophysical Research Letters.",
+  "upload_type": "software",
+  "creators": [
+    {"name": "Abdelkader Di Carlo, Isma", "affiliation": "Utrecht University"}
+  ],
+  "keywords": ["Atlantic meridional overturning circulation", "Last Glacial Maximum", "model resolution", "CESM", "paleoclimate"]
+}
