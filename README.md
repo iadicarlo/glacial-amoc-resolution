@@ -24,9 +24,9 @@ update.
 
 ## 2. Get the data
 
-The scripts read model output reduced to the analysis windows and a few small precomputed tables. These will be
-published in a data repository after the paper is submitted, and the link will be added here. The original
-simulations are listed in the Open Research section of the paper.
+The data plotted in every figure are archived on Zenodo: https://doi.org/10.5281/zenodo.23362626. The scripts
+themselves start one step earlier, from model output reduced to the analysis windows and a few small precomputed
+tables; the original simulations they come from are listed in the Open Research section of the paper.
 
 Put the data in a folder called `data` inside this repository, or tell the scripts where it is:
 
