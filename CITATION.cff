@@ -7,8 +7,8 @@ authors:
     given-names: "Isma"
     affiliation: "Utrecht University"
     orcid: "https://orcid.org/0000-0002-8982-8343"
-version: "v1.0.0"
+version: "v1.0.1"
 date-released: "2026-10-14"
-doi: "10.5281/zenodo.23361571"
+doi: "10.5281/zenodo.23361570"
 license: MIT
 repository-code: "https://github.com/iadicarlo/glacial-amoc-resolution"
