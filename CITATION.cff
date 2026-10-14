@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite them as below, together with the paper."
+title: 'Figure scripts for "Resolution may hold the key to a weaker and shallower glacial Atlantic overturning"'
+type: software
+authors:
+  - family-names: "Abdelkader Di Carlo"
+    given-names: "Isma"
+    affiliation: "Utrecht University"
+    orcid: "https://orcid.org/0000-0002-8982-8343"
+version: "v1.0.0"
+date-released: "2026-10-14"
+doi: "10.5281/zenodo.23361571"
+license: MIT
+repository-code: "https://github.com/iadicarlo/glacial-amoc-resolution"
