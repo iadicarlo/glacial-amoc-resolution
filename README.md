@@ -1,5 +1,7 @@
 # glacial-amoc-resolution
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23361570.svg)](https://doi.org/10.5281/zenodo.23361570)
+
 Scripts that make the figures of the paper "Resolution may hold the key to a weaker and shallower glacial Atlantic
 overturning" (Abdelkader Di Carlo et al., submitted to Geophysical Research Letters): Figures 1 to 4 of the main text
 and Figures S1 to S7 of the Supporting Information.
@@ -72,4 +74,6 @@ Notes:
 
 ## License
 
-MIT, see `LICENSE`. If you use these scripts, please cite the paper and this repository.
+MIT, see `LICENSE`. If you use these scripts, please cite the paper and this repository: Abdelkader Di Carlo, I.
+(2026). Figure scripts for "Resolution may hold the key to a weaker and shallower glacial Atlantic overturning"
+(v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23361571
