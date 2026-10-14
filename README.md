@@ -76,4 +76,4 @@ Notes:
 
 MIT, see `LICENSE`. If you use these scripts, please cite the paper and this repository: Abdelkader Di Carlo, I.
 (2026). Figure scripts for "Resolution may hold the key to a weaker and shallower glacial Atlantic overturning"
-(v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23361571
+(v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.23362394
